@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B59A5F-1D8A-4DF2-8734-7D9494B0BD7D}|Session_variable4367416\\Session_variable4367416.csproj|C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\session_variable4367416\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80B59A5F-1D8A-4DF2-8734-7D9494B0BD7D}|Session_variable4367416\\Session_variable4367416.csproj|solutionrelative:session_variable4367416\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B59A5F-1D8A-4DF2-8734-7D9494B0BD7D}|Session_variable4367416\\Session_variable4367416.csproj|c:\\users\\renderos\\desktop\\practica3\\session_variable4367416\\session_variable4367416\\sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B59A5F-1D8A-4DF2-8734-7D9494B0BD7D}|Session_variable4367416\\Session_variable4367416.csproj|solutionrelative:session_variable4367416\\sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B59A5F-1D8A-4DF2-8734-7D9494B0BD7D}|Session_variable4367416\\Session_variable4367416.csproj|C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\session_variable4367416\\productconfirmsessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B59A5F-1D8A-4DF2-8734-7D9494B0BD7D}|Session_variable4367416\\Session_variable4367416.csproj|solutionrelative:session_variable4367416\\productconfirmsessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B59A5F-1D8A-4DF2-8734-7D9494B0BD7D}|Session_variable4367416\\Session_variable4367416.csproj|C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\session_variable4367416\\productconfirmsessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{80B59A5F-1D8A-4DF2-8734-7D9494B0BD7D}|Session_variable4367416\\Session_variable4367416.csproj|solutionrelative:session_variable4367416\\productconfirmsessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductConfirmSessionVariable.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\Session_variable4367416\\ProductConfirmSessionVariable.aspx.cs",
+              "RelativeDocumentMoniker": "Session_variable4367416\\ProductConfirmSessionVariable.aspx.cs",
+              "ToolTip": "C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\Session_variable4367416\\ProductConfirmSessionVariable.aspx.cs",
+              "RelativeToolTip": "Session_variable4367416\\ProductConfirmSessionVariable.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:52:19.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductConfirmSessionVariable.aspx",
+              "DocumentMoniker": "C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\Session_variable4367416\\ProductConfirmSessionVariable.aspx",
+              "RelativeDocumentMoniker": "Session_variable4367416\\ProductConfirmSessionVariable.aspx",
+              "ToolTip": "C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\Session_variable4367416\\ProductConfirmSessionVariable.aspx",
+              "RelativeToolTip": "Session_variable4367416\\ProductConfirmSessionVariable.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T20:51:02.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionVariable.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\Session_variable4367416\\SessionVariable.aspx.cs",
+              "RelativeDocumentMoniker": "Session_variable4367416\\SessionVariable.aspx.cs",
+              "ToolTip": "C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\Session_variable4367416\\SessionVariable.aspx.cs",
+              "RelativeToolTip": "Session_variable4367416\\SessionVariable.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:50:08.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionVariable.aspx",
+              "DocumentMoniker": "C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\Session_variable4367416\\SessionVariable.aspx",
+              "RelativeDocumentMoniker": "Session_variable4367416\\SessionVariable.aspx",
+              "ToolTip": "C:\\Users\\Renderos\\Desktop\\Practica3\\Session_variable4367416\\Session_variable4367416\\SessionVariable.aspx",
+              "RelativeToolTip": "Session_variable4367416\\SessionVariable.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T20:49:08.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
